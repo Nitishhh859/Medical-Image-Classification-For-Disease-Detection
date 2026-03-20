@@ -64,7 +64,7 @@ The CNN model consists of:
 
 Shows how the model improves during training.
 
-![Accuracy Graph](C:\Users\NITESH\OneDrive\Pictures\Screenshots)
+![Accuracy Graph](https://github.com/Nitishhh859/Medical-Image-Classification-For-Disease-Detection/blob/a668384a868fbf5952e5c4acdd6dcde22233a30b/Accuracy%20Graph.png)
 
 ---
 
@@ -84,7 +84,7 @@ Confusion Matrix:
 
 | Metric    | Score    |
 | --------- | -------- |
-| Accuracy  | ~90–95%  |
+| Accuracy  | 90%  |
 | Precision | High     |
 | Recall    | High     |
 | F1 Score  | Balanced |
@@ -197,7 +197,7 @@ Medical-Image-Classification/
 
 ## 💼 Resume Description (ATS-Friendly)
 
-Developed a CNN-based medical image classification system for pneumonia detection using chest X-rays, achieving ~92% accuracy. Implemented data augmentation, evaluation metrics (precision, recall, F1-score), and visualization techniques for performance analysis.
+Developed a CNN-based medical image classification system for pneumonia detection using chest X-rays, achieving ~90% accuracy. Implemented data augmentation, evaluation metrics (precision, recall, F1-score), and visualization techniques for performance analysis.
 
 ---
 
