@@ -96,7 +96,7 @@ Confusion Matrix:
 Due to size limitations, the trained model is hosted externally:
 
 👉 **Download Model Here:**
-(Paste your Google Drive link here)
+(https://drive.google.com/file/d/1ExsDhUaoZZzcRgcM8Ji-7maDgM5w2Dwt/view?usp=sharing)
 
 ---
 
@@ -190,8 +190,8 @@ Medical-Image-Classification/
 ## 👨‍💻 Author
 
 **Nitish Kumar Namdeo**
-🎓 B.Tech IT Student
-📍 India
+   🎓 B.Tech IT Student
+    📍 India
 
 ---
 
