@@ -73,7 +73,10 @@ Shows how the model improves during training.
 
 Visual representation of model predictions.
 
-![Confusion Matrix](results/confusion_matrix.png)
+Confusion Matrix:
+
+[ [  24  600 ]  
+ [   1 5215 ] ]
 
 ---
 
