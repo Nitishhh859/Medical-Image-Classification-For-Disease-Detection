@@ -64,17 +64,10 @@ The CNN model consists of:
 
 Shows how the model improves during training.
 
-![Accuracy Graph](results/accuracy.png)
+![Accuracy Graph](C:\Users\NITESH\OneDrive\Pictures\Screenshots)
 
 ---
 
-### 📉 Loss Graph
-
-Shows how error decreases over time.
-
-![Loss Graph](results/loss.png)
-
----
 
 ### 📊 Confusion Matrix
 
